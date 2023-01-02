@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on KOOK and Discord
 - 📫 How to reach me ... Add `AGJ#5120` on Discord *or* Add `~熬果酱~#2333` on KOOK
 - 🎮 I also like playing computer games in my free time. Now I mainly play CSGO and Minecraft
-- 🔔 Note: I can't write projects recently, but you can **still** add me on Discord and KOOK
+- 🔔 Note: I won't write projects recently, but you can **still** add me on Discord and KOOK
 
 <!---
 AGJ-smart/AGJ-smart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
