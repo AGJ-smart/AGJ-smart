@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AGJ-smart, I'm a teenager from China.
+## 👋 Hi, I’m @AGJ-smart, I'm a teenager from China.
 - 👀 I’m interested in **wonderful** programming technologies. 🤯
 - 🌱 I’m currently learning Java, C++ and Kotlin. 🤔
 - 💞️ I’m looking to collaborate on KOOK and Discord
